@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-table table {font-size: 13px;}
+.row-white {
+  background-color: white;
+}
+.row-gray {
+  background-color: rgba(217, 226, 255, 0.22);
+}

@@ -1,0 +1,5 @@
+#basic_password {
+  --tw-bg-opacity: 1;
+  background-color: rgb(248 250 252 / var(--tw-bg-opacity));
+  border-right: 2px solid rgb(89, 105, 121);
+}
